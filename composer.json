@@ -36,5 +36,5 @@
 	"config": {
 		"preferred-install": "source"
 	},
-	"minimum-stability": "stable"
+	"minimum-stability": "dev"
 }
