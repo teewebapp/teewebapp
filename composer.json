@@ -6,9 +6,9 @@
 	"require": {
 		"laravel/framework": "4.2.*",
 
-		"teewebapp/admin": "dev-master",
-		"teewebapp/front": "dev-master",
-		"teewebapp/page": "dev-master"
+		"teewebapp/admin": "dev-master@dev",
+		"teewebapp/front": "dev-master@dev",
+		"teewebapp/page": "dev-master@dev"
 	},
 	"autoload": {
 		"classmap": [
@@ -36,5 +36,5 @@
 	"config": {
 		"preferred-install": "source"
 	},
-	"minimum-stability": "dev"
+	"minimum-stability": "stable"
 }
