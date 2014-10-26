@@ -10,6 +10,7 @@ cd my-dir
 php artisan modules:publish
 php artisan modules:migrate
 php artisan modules:seed
+```
 
 You need to run command "module:publish", "modules:migrate" and "modules:seed" every time when you install a new module.
 
